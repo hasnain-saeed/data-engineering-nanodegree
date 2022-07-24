@@ -1,4 +1,4 @@
-# Data Modeling with Postgres
+# Data Lake with Apache Spark
 ## Table of Contents
 * [About the Project](#about-the-project)
 * [Usage](#usage)

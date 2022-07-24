@@ -1,4 +1,4 @@
-# Data Modeling with Postgres
+# Data Warehouse with AWS Redshift
 ## Table of Contents
 * [About the Project](#about-the-project)
 * [Usage](#usage)
